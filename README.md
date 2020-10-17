@@ -16,12 +16,17 @@ Features:
 >Auto Dork generator"
 
 # How To Use
-```apt update```
-```apt upgrade```
-```git clone https://github.com/indiancybertroops/Dharma```
-```cd Dharma```
-```chmod +x *```
-```./ict``` 
+1 ```apt update```
+
+2```apt upgrade```
+
+3```git clone https://github.com/indiancybertroops/Dharma```
+
+4```cd Dharma```
+
+5```chmod +x *```
+
+6```./ict``` 
 ## use this if above last command not works
 ```bash ict```
 ## Contact Us: 
