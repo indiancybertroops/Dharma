@@ -1,19 +1,32 @@
 
 # Dharma Auto Framework For Sqli
+A Tool In Bash To Automate Manual Sql injection And Cracking Hash Automatically
+Including Automated Dorking System And Auto Exploitation
+Automated Dork Generation System 
 
 #
 Features:
 
 >Single site injection"
+
 >Mass Exploit sql-injection Sites"
+
 >Auto Dorking + Auto Exploit"
+
 >SQLi Base64 Based injection"
+
 >SQLi Hard /*!WaF*/ Bruteforce All in One Bypass"
+
 >Scan site + Auto inject point finder + auto injector "
+
 >Reverse ip vuln Url Grabber + auto inject"
+
 >Auto Email Pass dumper + auto filter mail"
+
 >Hash Cracker tools"
+
 >Auto Dork generator"
+
 
 # How To Use
 1 ```apt update```
